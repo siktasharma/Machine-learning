@@ -6,3 +6,4 @@ I used following Python Libraries to complete these projects -
 * Pandas
 * Matplotlib
 * Seaborn
+* SkiKit Learn
